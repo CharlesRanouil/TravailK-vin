@@ -1,4 +1,4 @@
-Les différentes communautés du monde du développement et de l'informatique.
+#Les différentes communautés du monde du développement et de l'informatique.
 
 
 ## Stack Overflow : 
@@ -22,11 +22,19 @@ Code project est également un peu plus qu'un forum de question/réponse, les util
 La plupart des articles sont upload par des simples visiteurs, qui upload également le code source de leur travail.
 D'autres sujet sont également présent tel que le développement mobile iOS, Android. Des discussions de composants informatique.
 
+## Reddit programming :
 
--Reddit R/programming
--Codecall
--Discord serv Programming
--Gamedev.net
+sub reddit R/programming créé en 2006 et comptabilisant plus de 2.3 millions de membres. Très actif mais très brouillon le sub reddit n'a pas d'organisation et tout les sujets sont mélangés.
+Tout les sujets sont abordés par n'importe qui, majoritement sous forme de question/réponses et de discussion. Il reste néanmoins un des plus utilisé de part la popularité de reddit à l'international.
+
+## Codecall : 
+
+Forum spécialisé developpement avec des avec plus de 50 000 membres, composé de tutoriels pour tout les languages de programmations et d'un forum avec questions réponse.
+
+## OpenClassrooms : 
+
+est une école en ligne qui propose des cours en programmation et informatique. le site propose un catalogue de plus de 1000 tutoriel réalisé par des éditeurs puis ensuite validé par l'équipe pédagogique d'Openclassroom.
+Les tutoriels réalisé à plus de 70% par les élèves délivrent des certificats de réussite quand l'élève est membre premium. Certains certificats sont délivrer par des partenaires d'openclassroom tel que polytechnique, centrale paris, ESG.
 
 
 
