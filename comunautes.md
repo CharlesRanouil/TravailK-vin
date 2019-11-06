@@ -1,4 +1,4 @@
-#Les différentes communautés du monde du développement et de l'informatique.
+# Les différentes communautés du monde du développement et de l'informatique.
 
 
 ## Stack Overflow : 
