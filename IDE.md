@@ -25,4 +25,4 @@ PhpStorm est un éditeur pour _PHP_, _HTML_, _CSS_ et _JavaScript_, édité par 
 
 #### Sublime Text :
 
-Créer en 2012 par Jon Skinner, disponible sur *Windows*, *Mac* et *Linux* et gratuit. Il est majoritairement utilisé pour codé en _C++_, _Python_ mais il est aussi compatible avec 44 autres langages. Lui aussi permet la coloration de sa syntaxe, l'auto-complétition. Il permet aussi d'avoir une minimap, de modifier à plusieur endroit en même temps dans le code, des sauvegarde automatique.
+Créer en 2012 par Jon Skinner, disponible sur *Windows*, *Mac* et *Linux* et gratuit. Il est majoritairement utilisé pour codé en _C++_, _Python_ mais il est aussi compatible avec 44 autres langages. Lui aussi permet la coloration de sa syntaxe, l'auto-complétition. Il permet aussi d'avoir une minimap, de modifier à plusieur endroit en même temps dans le code et des sauvegarde automatique.
