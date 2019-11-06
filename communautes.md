@@ -19,10 +19,10 @@ et de particip� si leurs propri�taire les a autoris�. Le travail � plusieurs est
 
 ## Code project :
 
-créé en 1999, compte en 2018 plus de 13 millions d'utilisateurs. Principalement dédié aux développeurs les différents forums traitent des languages de programmations (C/C++, JavaScript, SQL).
-Code project est également un peu plus qu'un forum de question/réponse, les utilisateurs sont invités à expliquer en détails leurs travaux dans leurs conceptions et leurs idées.
-La plupart des articles sont upload par des simples visiteurs, qui upload également le code source de leur travail.
-D'autres sujet sont également présent tel que le développement mobile iOS, Android. Des discussions de composants informatique.
+cr�� en 1999, compte en 2018 plus de 13 millions d'utilisateurs. Principalement d�di� aux d�veloppeurs les diff�rents forums traitent des languages de programmations (C/C++, JavaScript, SQL).
+Code project est �galement un peu plus qu'un forum de question/r�ponse, les utilisateurs sont invit�s à expliquer en d�tails leurs travaux dans leurs conceptions et leurs id�es.
+La plupart des articles sont upload par des simples visiteurs, qui upload �galement le code source de leur travail.
+D'autres sujet sont �galement pr�sent tel que le d�veloppement mobile iOS, Android. Des discussions de composants informatique.
 
 
 
