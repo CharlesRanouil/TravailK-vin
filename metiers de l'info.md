@@ -21,5 +21,5 @@ Les administrateurs de bases de données sont des employés qui travaillent avec
 ## Gestionnaire de système d'information
 Les gestionnaires de systèmes d'information supervisent l'utilisation de la technologie dans une entreprise ou une organisation. Ils prennent des décisions concernant l'installation, la maintenance et les mises à niveau des appareils électroniques utilisés sur le lieu de travail.
 
-## Consultantn informatique 
+## Consultant informatique 
 Les consultants en informatique sont des analystes externes qui évaluent les systèmes informatiques d'une entreprise pour les aider à atteindre leurs objectifs commerciaux. Leurs tâches principales incluent l'analyse et le diagnostic de l'infrastructure informatique d'une entreprise, la compréhension des besoins de l'entreprise d'un client et la conception et la mise en œuvre d'une solution technologique.
