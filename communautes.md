@@ -1,4 +1,4 @@
-Les différentes communautés du monde du développement et de l'informatique.
+## Les diffÃ©rentes communautÃ©s du monde du dÃ©veloppement et de l'informatique.
 
 
 -Stack Overflow est un site web faisait partie du réseau de sites Stack Exchange. Un ensemble de sites communautaires de questions/réponses.
