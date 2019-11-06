@@ -23,3 +23,16 @@ Les gestionnaires de systèmes d'information supervisent l'utilisation de la tec
 
 ## Consultant informatique 
 Les consultants en informatique sont des analystes externes qui évaluent les systèmes informatiques d'une entreprise pour les aider à atteindre leurs objectifs commerciaux. Leurs tâches principales incluent l'analyse et le diagnostic de l'infrastructure informatique d'une entreprise, la compréhension des besoins de l'entreprise d'un client et la conception et la mise en œuvre d'une solution technologique.
+
+## Responsable de l'assistance technique informatique
+Les responsables de l’assistance technique informatique surveillent et entretiennent les systèmes informatiques et les réseaux d’une entreprise.
+
+## Testeur d'intrusion
+Les testeurs d'intrusion, également appelés «pirates éthiques», sont des spécialistes de la sécurité hautement qualifiés qui passent leurs journées à tenter de violer les systèmes de sécurité informatique et de réseau afin que les failles soient corrigées par la suite.
+
+## Ingénieur logiciel
+Au niveau le plus élémentaire, les ingénieurs en logiciel écrivent, déboguent, maintiennent et testent les logiciels qui ordonnent à un ordinateur d’accomplir certaines tâches, telles que la sauvegarde des informations, la réalisation de calculs, etc. Un ingénieur en logiciel convertira ce qui doit se passer en plusieurs programmes. Les languages les plus courants étant Java, C ++ et Python.
+
+## Analyste système
+Les analystes de systèmes analysent dans quelle mesure les logiciels, le matériel et le système informatique au sens large répondent aux besoins de l’employeur ou du client. Ils rédigent les exigences relatives aux nouveaux systèmes et peuvent également aider à les mettre en œuvre et à surveiller leur efficacité.
+
