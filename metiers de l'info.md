@@ -36,3 +36,12 @@ Au niveau le plus élémentaire, les ingénieurs en logiciel écrivent, débogue
 ## Analyste système
 Les analystes de systèmes analysent dans quelle mesure les logiciels, le matériel et le système informatique au sens large répondent aux besoins de l’employeur ou du client. Ils rédigent les exigences relatives aux nouveaux systèmes et peuvent également aider à les mettre en œuvre et à surveiller leur efficacité.
 
+## Développeur d'application
+Également appelé développeur de logiciel ou architecte de logiciel, un développeur d'application est chargé de développer et de modifier le code source des applications logicielles. Ces applications sont destinées à aider les clients avec des tâches ou des programmes informatiques.
+
+## Analyste judiciaire en informatique 
+Le rôle d'un analyste judiciaire en informatique consiste à enquêter sur les violations de données, les incidents de sécurité et les activités criminelles. Il peut travailler pour la police ou d'autres agences de maintien de l'ordre, ou pour une société de criminalistique informatique spécialisée ou une équipe d'enquête.
+
+## Ingénieur réseau
+Les ingénieurs de réseau sont responsables de la conception, de la mise en œuvre, de la surveillance et de la gestion des réseaux afin de garantir une disponibilité maximale aux utilisateurs. Le rôle peut inclure la conception de configurations de système, la documentation et la gestion de l'installation d'un nouveau réseau, ainsi que la maintenance et la mise à niveau des systèmes existants, le cas échéant.
+
