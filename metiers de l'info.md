@@ -45,3 +45,12 @@ Le rôle d'un analyste judiciaire en informatique consiste à enquêter sur les 
 ## Ingénieur réseau
 Les ingénieurs de réseau sont responsables de la conception, de la mise en œuvre, de la surveillance et de la gestion des réseaux afin de garantir une disponibilité maximale aux utilisateurs. Le rôle peut inclure la conception de configurations de système, la documentation et la gestion de l'installation d'un nouveau réseau, ainsi que la maintenance et la mise à niveau des systèmes existants, le cas échéant.
 
+## Vendeur informatique 
+En tant que professionnel de la vente informatique, vous travaillerez généralement avec des clients commerciaux pour trouver le matériel informatique et les logiciels adaptés à leurs besoins, cela peut impliquer de démontrer les caractéristiques d'un produit particulier.
+
+## Chercheur UX (user experience)
+Le travail de UX Research consiste à apporter des réponses aux questions les plus complexes de la conception du produit. Le chercheur UX révèle ce que les clients ont besoin des produits de l’entreprise en observant le comportement et la motivation des consommateurs.
+
+ 
+## Gestionnaire de contenu Web
+Les gestionnaires de contenu Web veillent à ce que le contenu d'un site Web soit bien structuré et facile à trouver, et qu'il réponde aux besoins de ses utilisateurs en couvrant tous les sujets nécessaires, en étant à jour et précis.
