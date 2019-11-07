@@ -59,7 +59,8 @@ est le dernier langage de programmation open source multi-paradigmes d'Apple pou
 Spécialisation:software development.
 
 
-## PHP est un langage de script open-source connu pour créer des pages Web dynamiques qui fonctionnent  
+## PHP
+ est un langage de script open-source connu pour créer des pages Web dynamiques qui fonctionnent  
 avec des bases de données.
 Spécialisation:Web Application Development, Server-Side Scripting.
 
