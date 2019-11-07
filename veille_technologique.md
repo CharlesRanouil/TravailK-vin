@@ -31,18 +31,20 @@ Celà a pour but :
 - D'éviter un déphasage face à l'écolution
 - D'analyser leur mise à disposition commerciale
 
-## Les avantages et les inconvenients 
+## Les inconvenients :
 
-#### Les avantages :
-
-#### Les inconvenients :
+- Le surplus d'information
+- La véracité des inforamtions
+- La vitesse de l'évolution des technologies
+- La stabilité des nouveautés
+- Spéculations
 
 ## Quelques conseils :
 
 Pour effectuer une bonne veille technologique il faut : 
 
 - Constituer vos sources 
-    Les sources doivent être multiples (mais pas innombrables), pertinentes, vérifiées, mise à jour régulièrement et en cohérence avec votre secteur. Elles peuvent être de l'ordre du réseau social, de blog, conférence etc ...
+    Les sources doivent être multiples (mais pas innombrables), pertinentes, vérifiées, mise à jour régulièrement et en cohérence avec votre secteur. Elles peuvent être de l'ordre du réseau social, de blog, conférence, communautés etc ...
 - En parle avec des colègues, sur des blogs
     Celà vous permettra de découvrir de nouveaux aspects plus ou moins positifs et va donc affiner votre avis.
 - Se renseigner de manière régulière 
@@ -53,4 +55,3 @@ Pour effectuer une bonne veille technologique il faut :
     C'est un moyen simple de comprendre rapidement la nouveauté, de pouvoir l'utilisé et pourquoi pas être l'un des premiers à l'utiliser ! 
 - Faire attention à la stabilité de cette nouveauté
     Si la nouveauté n'est pas stable, il n'est pas forcement necessaire de faire le premier pas. Laissez les autres prendre le risque, certes vous ne serez pas parmis les premier mais au moins celà sera moins risqué.
-
