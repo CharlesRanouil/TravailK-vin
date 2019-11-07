@@ -1,4 +1,4 @@
-# Les différentes communautés du monde du développement et de l'informatique.
+#Les différentes communautés du monde du développement et de l'informatique.
 
 
 ## Stack Overflow : 
@@ -11,13 +11,13 @@ Les sujets les plus souvent abordées sont de type bug de programmation ou aide p
 ## GITHUB :
 
 créé en 2008, compte en 2016 plus de 14 millions d'utilisateurs et plus de 35 millions de dépôts de projet, il est racheté en 2018 par microsoft pour 7,5 milliards de dollars.
-peut être défini comme un service web pour le développement de logiciels en open source. Les utilisateurs peuvent mettre en ligne leurs travaux.
+Il peut être défini comme un service web pour le développement de logiciels en open source. Les utilisateurs peuvent mettre en ligne leurs travaux.
 L'aspect social est omniprésent, en offrant l'hebergement de projets le site offre un pannel de fonctionnalités tel que la possibilité de suivre des utilisateurs et leurs travaux
 et de participé si leurs propriétaire les a autorisé. Le travail à plusieurs est donc possible, les personnes travaillent sur leurs machine en local et envoie leurs avancement en distant sur github.
 
 ## Code project :
 
-créé en 1999, compte en 2018 plus de 13 millions d'utilisateurs. Principalement dédié aux d\éveloppeurs les différents forums traitent des languages de programmations (C/C++, JavaScript, SQL).
+créé en 1999, compte en 2018 plus de 13 millions d'utilisateurs. Principalement dédié aux développeurs les différents forums traitent des languages de programmations (C/C++, JavaScript, SQL).
 Code project est également un peu plus qu'un forum de question/réponse, les utilisateurs sont invités à expliquer en détails leurs travaux dans leurs conceptions et leurs idées.
 La plupart des articles sont upload par des simples visiteurs, qui upload également le code source de leur travail.
 D'autres sujet sont également présent tel que le développement mobile iOS, Android. Des discussions de composants informatique.
