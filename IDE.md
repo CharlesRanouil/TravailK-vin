@@ -21,7 +21,7 @@ Visual Studio est un IDE conçue par *Microsoft* en 1997 et disponible sur *Wind
 
 #### PhpStorm :
 
-PhpStorm est un éditeur pour _PHP_, _HTML_, _CSS_ et _JavaScript_, édité par *JetBrains* et disponible sur *Windows*, *Mac* et *Linux*. Initialement payant, il peut être cepandant distribué gratuitment pour les étudiants, professeurs ou dans le but d'un projet open source. Il permet une coloration de la syntaxe, une affichage des erreurs, une auto-complétition du code, l'envoi de fichier via FTP et la compatibilité _Git_, _Mercurial_ et _Subversion_.
+PhpStorm est un éditeur pour _PHP_, _HTML_, _CSS_ et _JavaScript_, édité par *JetBrains* et disponible sur *Windows*, *Mac* et *Linux*. Initialement payant, il peut être cepandant distribué gratuitement pour les étudiants, professeurs ou dans le but d'un projet open source. Il permet une coloration de la syntaxe, une affichage des erreurs, une auto-complétition du code, l'envoi de fichier via FTP et la compatibilité _Git_, _Mercurial_ et _Subversion_.
 
 #### Sublime Text :
 
