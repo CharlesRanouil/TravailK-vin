@@ -20,6 +20,7 @@ C'est l'activité qui consiste à  s'informer de façon systématique sur les é
 ## A quoi ca sert ? 
 
 Celà a pour but :
+- De comprendre l'environnement dans lequel on travail
 - De s'adapter à l'évolution
 - D'anticiper les changements et les avancés technologiques
 - D'évaluer les risques potentiels
@@ -40,6 +41,16 @@ Celà a pour but :
 
 Pour effectuer une bonne veille technologique il faut : 
 
-- Constituez vos sources 
-    Les sources doivent être multiples (mais pas innombrables), pertinentes, vérifiées, mise à jour régulièrement et en cohérence avec votre secteur. 
-- 
+- Constituer vos sources 
+    Les sources doivent être multiples (mais pas innombrables), pertinentes, vérifiées, mise à jour régulièrement et en cohérence avec votre secteur. Elles peuvent être de l'ordre du réseau social, de blog, conférence etc ...
+- En parle avec des colègues, sur des blogs
+    Celà vous permettra de découvrir de nouveaux aspects plus ou moins positifs et va donc affiner votre avis.
+- Se renseigner de manière régulière 
+    Que se soit quotidient, hebdomadaire ou bien mensuel, il faut que se soit régulier afin de ne pas perdre le fil.
+- Tester les nouveautés que vous avez découvert 
+    Fait ceci et vous allez vous faire votre avis sur cette fameuse nouveauté dont tout le monde parle, ou bien tout simplement vous allez voir que cette nouveauté ne vous concerne pas au final
+- Si la nouveauté vous interresse, pourquoi pas suivre une formation ?
+    C'est un moyen simple de comprendre rapidement la nouveauté, de pouvoir l'utilisé et pourquoi pas être l'un des premiers à l'utiliser ! 
+- Faire attention à la stabilité de cette nouveauté
+    Si la nouveauté n'est pas stable, il n'est pas forcement necessaire de faire le premier pas. Laissez les autres prendre le risque, certes vous ne serez pas parmis les premier mais au moins celà sera moins risqué.
+
