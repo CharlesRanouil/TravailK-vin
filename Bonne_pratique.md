@@ -7,7 +7,7 @@ Lorsque l'on programme on passe du temps à écrire notre code dans le but qu'il f
 On peut comparer le code à un texte écris sur un livre, lorsque le texte est mal écrit, plein de fautes d'ortographe, avec une nomenclature non respecté il est illisible et difficilement compréhensible.
 C'est la même chose pour le code, un code mal écris est difficile à comprendre et beaucoup plus fatiguant pour repérer et corriger les bugs.
 
-# Les bonnes pratiques du code :
+## Les bonnes pratiques du code :
 
 L'une des premières caractéristique d'un bonne facile à lire et surtout agréable est l'indentation des lignes de codes. Cela consiste à ajouter de la tabulation ou des espaces pour une meilleure lecture.
 Il existe également l'ajout de commentaire grace par exemple aux balises /* */ en C++. Cela permet au créateur du code une meilleur relecture de son code,
