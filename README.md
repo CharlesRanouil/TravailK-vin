@@ -7,12 +7,12 @@ Ce repository est un ensemble de recherche afin de découvrir les différentes v
 ## Sujets traités :
 
 Les recherches sont portées sur :
-- Les différents métiers de l'informatique
-- Les différents langages de programmation
-- Les différents IDE, leurs particularités et objectifs
-- Les communautés importantes
-- Les bonnes pratiques du codes informatique
-- La veille technologique : les avantages, incovenients, etc ...
+- Les différents métiers de l'informatique (Charles Ranouil)
+- Les différents langages de programmation (Maxime Barbereau)
+- Les différents IDE, leurs particularités et objectifs (Quentin Camilleri)
+- Les communautés importantes (Germain Robard)
+- Les bonnes pratiques du codes informatique (Germain Robard)
+- La veille technologique (Quentin Camilleri)
 
 ## Requis : 
 

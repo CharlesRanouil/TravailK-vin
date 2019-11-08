@@ -44,7 +44,12 @@ Celà a pour but :
 Pour effectuer une bonne veille technologique il faut : 
 
 - Constituer vos sources :    
-    *Les sources doivent être multiples (mais pas innombrables), pertinentes, vérifiées, mise à jour régulièrement et en cohérence avec votre secteur. Elles peuvent être de l'ordre du réseau social, de blog, conférence, communautés etc ...*
+    *Les sources doivent être multiples (mais pas innombrables), pertinentes, vérifiées, mise à jour régulièrement et en cohérence avec votre secteur. Elles peuvent être de l'ordre du réseau social, de blog, conférence, communautés etc ... Quelques exemples :*
+    - *Twitter*
+    - *Le Monde Informatique*
+    - *Diigo*
+    - *Groupes Facebook*
+    - *Et plein d'autres ...*
 - En parle avec des colègues, sur des blogs :          
     *Celà vous permettra de découvrir de nouveaux aspects plus ou moins positifs et va donc affiner votre avis.*
 - Se renseigner de manière régulière :          
