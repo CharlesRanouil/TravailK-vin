@@ -14,24 +14,31 @@ Il est recommandé d'utilisé un IDE pour le developpement car il facilite le d�
 Il existe une multitude d'IDE : Visual Studio, PhpStorm, Sublime Text, Eclipse, Notepad ++, et plein d'autre ...   
 Mais ils peuvent se diférencié en deux groupe.
 
-### Les IDE Lourds
+### Les gros IDE
 
-Les IDE lourds sont des IDE plus lourds en consommations de ressources mais qui sont bien plus précis dans leur domaine spécialisé (langages, interfaces, applications, etc...).  
-Voici deux exemples :
+Les gros IDE sont des IDE plus lourds en consommations de ressources mais qui sont bien plus précis dans leur domaine spécialisé (langages, interfaces, applications, etc...).  
+Voici trois exemples :
 
 #### Visual Studio :
 
-Visual Studio est un IDE conçue par *Microsoft* en 1997 et disponible sur *Windows*, *Mac* et *Linux*. Il peut être utilisé pour le développement de console, interface utilisateur graphique, service Web et les applications Web. Il permet la coloration de sa syntaxe, l'auto-complétition. Il comporte une minimap (une prévisualisation de tout le fichier dans une barre latérale), un débogueur prennant en charge la source et le débogage au niveau de la machine. Il a aussi un concepteur de classe afin de créer des bibliothèques personnalisées, et un concepteur de schémas pour le soutien de la base de données. Il supporte les langages _C++_,_C_, _C#_, _F#_, _Python_ (grace à une extention).
-
+Visual Studio est un IDE conçue par *Microsoft* en 1997 et disponible sur *Windows*, *Mac* et *Linux*. Il peut être utilisé pour le développement de console, interface utilisateur graphique, service Web et les applications Web. Il permet la coloration de sa syntaxe, l'auto-complétition. Il comporte une minimap (une prévisualisation de tout le fichier dans une barre latérale), un débogueur prennant en charge la source et le débogage au niveau de la machine. Il a aussi un concepteur de classe afin de créer des bibliothèques personnalisées, et un concepteur de schémas pour le soutien de la base de données. Il supporte les langages _C++_, _C_, _C#_.
 
 #### PhpStorm :
 
-PhpStorm est un éditeur pour _PHP_, _HTML_, _CSS_ et _JavaScript_, édité par *JetBrains* et disponible sur *Windows*, *Mac* et *Linux*. Initialement payant, il peut être cepandant distribué gratuitement pour les étudiants, professeurs ou dans le but d'un projet open source. Il permet une coloration de la syntaxe, une affichage des erreurs, une auto-complétition du code, l'envoi de fichier via FTP et la compatibilité _Git_, _Mercurial_ et _Subversion_.
+PhpStorm est un IDE pour _PHP_, _HTML_, _CSS_ et _JavaScript_, édité par *JetBrains* et disponible sur *Windows*, *Mac* et *Linux*. Initialement payant, il peut être cepandant distribué gratuitement pour les étudiants, professeurs ou dans le but d'un projet open source. Il permet une coloration de la syntaxe, une affichage des erreurs, une auto-complétition du code, l'envoi de fichier via FTP et la compatibilité _Git_, _Mercurial_ et _Subversion_.
 
-### Les IDE Légers
+#### Xcode
 
-Les IDE légers sont quant à eux légers mais bien plus générale.  
-Voici deux exemples :
+Xcode est un IDE pour *macOS*, *iOS*, *watchOS* et *tvOS*. Il comprends les langages *Swift*, *Ruby* et *Obejectif-C*. Il comporte un compilateur *C* / *C++* / *Obj-C*, un compilateur *Swift*, un débogueur et des simulateurs OS (iOS, tvOS, watchOS).
+
+### Les petits IDE
+
+Les gros IDE sont quant à eux légers, ils comprennent bien plus de langages généralement mais ils sont bien plus généraux.   
+Voici trois exemples :
+
+#### Visual Studio Code 
+
+VS Code est parue en 2015 et est développé par *Microsoft* pour *Windows*. Il supporte de nombreux langages comme *PHP*, *HTML-CSS*, *JavaScript*, *Python*, etc ... Il permet d'avoir une minimap, l'auto-complétition, la coloration de sa syntaxe, etc ...
 
 #### Sublime Text :
 
